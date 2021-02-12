@@ -279,7 +279,7 @@
 	.payment-mask {	display: none; }
 	.payment_slide { width: 65%; }
 	.payment-content { 
-		background-image: url(img/bg-payment-1.png);
+		background-image: url(app/img/bg-payment-1.png);
 		background-position: right center;
 	}
 	.payment_slide-two {
